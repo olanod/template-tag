@@ -1,0 +1,20 @@
+{
+  "name": "template-tag",
+  "version": "1.0.0",
+  "description": "string tag to parse html templates and add them to the document",
+  "main": "template.js",
+  "dependencies": {},
+  "devDependencies": {
+    "puppeteer": "^0.10.2"
+  },
+  "scripts": {
+    "test": "node test-runner.js template-test.js"
+  },
+  "keywords": [
+    "template",
+    "modules",
+    "es6"
+  ],
+  "author": "Daniel Olano <danielolanoc@gmail.com>",
+  "license": "MIT"
+}
